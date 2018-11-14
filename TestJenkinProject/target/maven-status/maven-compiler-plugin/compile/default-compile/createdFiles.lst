@@ -1,0 +1,5 @@
+TestJenkinProject/HelloEndpoint.class
+TestJenkinProject/AppConfig.class
+TestJenkinProject/AppConfig$JerseyConfig.class
+TestJenkinProject/App.class
+TestJenkinProject/HelloEndpoint$Result.class
